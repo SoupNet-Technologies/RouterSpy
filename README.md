@@ -29,7 +29,7 @@ RouterSpy is a cross-platform network configuration visualization tool. It gathe
 1. **Run the Application**
 
     ```sh
-    python3 sntrs_routerspy.py
+    python3 sntrs.py
     ```
 
 2. **Using the GUI**
